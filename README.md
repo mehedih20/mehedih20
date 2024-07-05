@@ -1,4 +1,13 @@
-![Cover Image](https://i.ibb.co/wQJ3tKV/github-cover.png)
+![Cover Image](https://i.ibb.co/Np1fjpR/github-cover-image.png)
+---
+
+### Hi 👋, I'm Md Mehedi Hasan
+---
+[![Facebook](https://i.ibb.co/mB9Y8Xb/facebook.png)](https://web.facebook.com/profile.php?id=100004101130146) [![LinkedIn](https://i.ibb.co/NYNRwxs/linkedin.png)](https://www.linkedin.com/in/mehedi-hasan-5322a920b) [![Gmail](https://i.ibb.co/3Mq1hth/gmail.png)](mailto:mehedih20@gmail.com)
+
+---
+### 💥 About Me
+
 
 <!--
 **mehedih20/mehedih20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
