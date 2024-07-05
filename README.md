@@ -1,25 +1,25 @@
 ![Cover Image](https://i.ibb.co/Np1fjpR/github-cover-image.png)
 ---
+<br><br>
 
-### Hi 👋, I'm Md Mehedi Hasan
----
-[![Facebook](https://i.ibb.co/mB9Y8Xb/facebook.png)](https://web.facebook.com/profile.php?id=100004101130146) [![LinkedIn](https://i.ibb.co/NYNRwxs/linkedin.png)](https://www.linkedin.com/in/mehedi-hasan-5322a920b) [![Gmail](https://i.ibb.co/3Mq1hth/gmail.png)](mailto:mehedih20@gmail.com)
+## Hi 👋, I'm Md Mehedi Hasan
 
----
-### 💥 About Me
+[![Facebook](https://i.ibb.co/mB9Y8Xb/facebook.png)](https://web.facebook.com/profile.php?id=100004101130146) &nbsp; [![LinkedIn](https://i.ibb.co/NYNRwxs/linkedin.png)](https://www.linkedin.com/in/mehedi-hasan-5322a920b) &nbsp;  [![Gmail](https://i.ibb.co/3Mq1hth/gmail.png)](mailto:mehedih20@gmail.com)
+<br><br>
 
 
-<!--
-**mehedih20/mehedih20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨 About Me
+<br>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently doing full-stack web development
+- ⚙  It's great fun for me working with technologies like ReactJs, NextJs, Redux, NodeJs, Prisma etc.
+- 💥 Integrating frontend and backend to make a full-stack app is something that I find intriguing
+- 📕 Currently in the final year of B.Tech program studing Computer Science and Engineering
+- 👯 I’m looking to collaborate with enthusiastic people to take my learning to next level
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🖥 Key Technologies I Know
+<br>
+
+![Technologies](https://i.ibb.co/m5DCb08/github-technologies.png)
