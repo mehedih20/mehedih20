@@ -1,4 +1,4 @@
-![Cover Image](https://drive.google.com/file/d/1amr6S6v9S9VagIV418vW_5idA3XCe2Qg/view?usp=sharing)
+![Cover Image](https://i.ibb.co/wQJ3tKV/github-cover.png)
 
 <!--
 **mehedih20/mehedih20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
