@@ -14,7 +14,7 @@
 - 🔭 I’m currently doing full-stack web development
 - ⚙  It's great fun for me working with technologies like ReactJs, NextJs, Redux, NodeJs, Prisma etc.
 - 💥 Integrating frontend and backend to make a full-stack app is something that I find intriguing
-- 📕 Currently in the final year of B.Tech program studying Computer Science and Engineering
+- 📕 Currently in the final year of B.Tech program, studying Computer Science and Engineering
 - 👯 I’m looking to collaborate with enthusiastic people to take my learning to the next level
 <br><br>
 
