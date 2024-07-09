@@ -4,7 +4,7 @@
 
 ## Hi 👋, I'm Md Mehedi Hasan
 
-[![Facebook](https://i.ibb.co/mB9Y8Xb/facebook.png)](https://web.facebook.com/codermehedihasan) &nbsp; [![LinkedIn](https://i.ibb.co/NYNRwxs/linkedin.png)](https://www.linkedin.com/in/mehedi-hasan-5322a920b) &nbsp;  [![Gmail](https://i.ibb.co/3Mq1hth/gmail.png)](mailto:mehedih20@gmail.com)
+[![Facebook](https://i.ibb.co/mB9Y8Xb/facebook.png)](https://web.facebook.com/codermehedihasan) &nbsp; [![LinkedIn](https://i.ibb.co/NYNRwxs/linkedin.png)](https://www.linkedin.com/in/mehedi-hasan-5322a920b) &nbsp; [![X](https://i.ibb.co/Q60j0Xh/4.png)](https://x.com/codermehedi1) &nbsp;  [![Gmail](https://i.ibb.co/3Mq1hth/gmail.png)](mailto:mehedih20@gmail.com)
 <br><br>
 
 
